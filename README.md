@@ -47,3 +47,11 @@ BenchmarkPikchr-8            142           7520289 ns/op
 PASS
 ok      github.com/rigtorp/go-pikchr    1.471s
 ```
+
+## Acknowledgements
+
+This extension is based on the
+[goldmark-pikchr](https://github.com/jchenry/goldmark-pikchr) extension by
+[Colin Henry](https://github.com/jchenry) and the
+[goldmark-d2](https://github.com/FurqanSoftware/goldmark-d2) extension by
+[Furqan Software](https://github.com/FurqanSoftware).
